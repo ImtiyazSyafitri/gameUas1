@@ -1,0 +1,2 @@
+# gameUas1
+Pada game ini menceritakan tentang seseorang yang pencari koin, dimana untuk mengambil coin tersebut harus melewati banyak rintangan dimana harus melewati tanah yang letaknya berpisah pisah, untuk mengbil coin tentu harus melewati tanah tersebut dengan cara melompat sebisa mungkin agar dapat mengambil coin tersebut. Semakin kuat untuk melompat semakin banyak coin yang didapat.  Jika saat melompat  kemudian terjatuh maka dianggap gagal.
